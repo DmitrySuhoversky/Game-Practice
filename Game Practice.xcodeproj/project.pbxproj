@@ -12,6 +12,8 @@
 		C9133A8225A859DE0016E7A8 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9133A8125A859DE0016E7A8 /* GameViewController.swift */; };
 		C9133A8525A859DE0016E7A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9133A8325A859DE0016E7A8 /* Main.storyboard */; };
 		C9133A8725A859DF0016E7A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9133A8625A859DF0016E7A8 /* Assets.xcassets */; };
+		C9133AD425A8AA140016E7A8 /* Screenshot02.png in Resources */ = {isa = PBXBuildFile; fileRef = C9133AD225A8AA140016E7A8 /* Screenshot02.png */; };
+		C9133AD525A8AA140016E7A8 /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = C9133AD325A8AA140016E7A8 /* Screenshot01.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		C9133A8425A859DE0016E7A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C9133A8625A859DF0016E7A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9133A8825A859DF0016E7A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9133AD225A8AA140016E7A8 /* Screenshot02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot02.png; sourceTree = "<group>"; };
+		C9133AD325A8AA140016E7A8 /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot01.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,8 @@
 		C9133A9425A88FD40016E7A8 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				C9133AD325A8AA140016E7A8 /* Screenshot01.png */,
+				C9133AD225A8AA140016E7A8 /* Screenshot02.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -132,6 +138,8 @@
 				C9133A8025A859DE0016E7A8 /* art.scnassets in Resources */,
 				C9133A8725A859DF0016E7A8 /* Assets.xcassets in Resources */,
 				C9133A8525A859DE0016E7A8 /* Main.storyboard in Resources */,
+				C9133AD525A8AA140016E7A8 /* Screenshot01.png in Resources */,
+				C9133AD425A8AA140016E7A8 /* Screenshot02.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
